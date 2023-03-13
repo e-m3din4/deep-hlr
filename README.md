@@ -12,8 +12,8 @@ To use this script, you'll need:
 
 ## Installation
 
-Clone this repository or copy the check_phone.py file to your local machine.
-Create a config.json file in the same directory as the script with your actual API key. See config.example.json for an example.
+Clone this repository or copy the Deep-HLR.py file to your local machine.
+Create a config.json file in the same directory as the script with your actual API key. See config.json for an example.
 Install the required Python packages by running pip3 install -r requirements.txt in the script's directory.
 
 ## Usage
@@ -77,5 +77,6 @@ Install the required Python packages by running pip3 install -r requirements.txt
 
 
 ## License
-Author: Edgar Medina --
+Author: Edgar Medina
+---------------------------------------------
 This script is licensed under the MIT License.
