@@ -1,7 +1,7 @@
 # Deep-HLR 
 ## A complete profile to a phone number using the Defastra API. 
 
-This script uses the Defastra Deep Phone HLR Check API designed to be a tool in fraud prevention scenarios. The following data points are obtained: retrieves social media accounts suscribed to the number (Amazon, Badoo, Bumble, Microsoft, Skype, Telegram, Twitter, Uber, Xiaomi, Bukalapak, Google Duo, Kakaotalk, TikTok, Google Account, Linkedin, Battlenet, Instagram, CallerID, Yandex, VK, Economic Times, WhatsApp, Line, NextDoor, Remind, Flipkart, JD, Viber and Venmo), validates availability, connection, portability, and scores risk, retrieves carrier, verify if its included in data breaches, gets geographical location, and device info linked to a phone number in json format.
+This script uses the Defastra Deep Phone HLR Check API, aiming to be a tool in fraud prevention and osint research scenarios. The following data points are obtained: retrieves social media accounts suscribed to the number (Amazon, Badoo, Bumble, Microsoft, Skype, Telegram, Twitter, Uber, Xiaomi, Bukalapak, Google Duo, Kakaotalk, TikTok, Google Account, Linkedin, Battlenet, Instagram, CallerID, Yandex, VK, Economic Times, WhatsApp, Line, NextDoor, Remind, Flipkart, JD, Viber and Venmo), validates availability, connection, portability, and scores risk, retrieves carrier, verify if its included in data breaches, gets geographical location, and device info linked to a phone number in json format.
 
 Prerequisites
 
@@ -77,5 +77,5 @@ Install the required Python packages by running pip3 install -r requirements.txt
 
 
 ## License
-Author: Edgar Medina
+Author: Edgar Medina --
 This script is licensed under the MIT License.
